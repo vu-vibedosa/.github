@@ -1,3 +1,3 @@
-# vu-vibedosa
+# .github
 
-Organization for Vilnius University Software Engineering course project group. Making project **Apsitvarkom**.
+Repo containing our organization's settings
