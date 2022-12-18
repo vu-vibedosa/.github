@@ -4,4 +4,4 @@ Organization for Vilnius University Software Engineering course project group. M
 
 ## Architecture
 
-![Apsitvarkom architecture](../apsitvarkom-architecture.png)
+![Apsitvarkom architecture](https://raw.githubusercontent.com/vu-vibedosa/.github/main/apsitvarkom-infra-small.png)
