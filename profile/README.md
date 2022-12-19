@@ -1,6 +1,6 @@
 # vu-vibedosa
 
-Organization for Vilnius University Software Engineering course project group. Making project **Apsitvarkom**.
+Organization for Vilnius University Software Engineering I (2022-2023) course project group. Making project **Apsitvarkom**.
 
 ## Architecture
 
